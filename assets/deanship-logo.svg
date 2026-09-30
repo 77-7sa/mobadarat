@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#54dec4"/><stop offset="1" stop-color="#167f86"/></linearGradient></defs>
+  <rect width="240" height="240" rx="54" fill="#eefbf8"/>
+  <circle cx="120" cy="103" r="62" fill="url(#g)" opacity=".14"/>
+  <path d="M55 104l65-32 65 32-65 32z" fill="url(#g)"/>
+  <path d="M78 116v29c25 18 59 18 84 0v-29l-42 20z" fill="#0e5961"/>
+  <path d="M185 105v46" stroke="#ffb95e" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="185" cy="156" r="8" fill="#ffb95e"/>
+  <text x="120" y="195" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#123b46">شؤون الطلبة</text>
+</svg>

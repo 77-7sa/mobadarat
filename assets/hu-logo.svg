@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9b2f2f"/><stop offset="1" stop-color="#511725"/></linearGradient></defs>
+  <circle cx="120" cy="120" r="112" fill="#fff" stroke="url(#g)" stroke-width="12"/>
+  <circle cx="120" cy="120" r="86" fill="#f8efe7" stroke="#cda766" stroke-width="3"/>
+  <path d="M120 54l45 21v49c0 31-18 54-45 67-27-13-45-36-45-67V75z" fill="url(#g)"/>
+  <path d="M91 98c18-9 38-9 58 0v42c-20-9-40-9-58 0z" fill="#fff"/>
+  <path d="M120 95v48" stroke="#cda766" stroke-width="4"/>
+  <text x="120" y="35" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#641f29">الجامعة الهاشمية</text>
+  <text x="120" y="219" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#641f29">THE HASHEMITE UNIVERSITY</text>
+</svg>
