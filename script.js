@@ -3,7 +3,7 @@
 const initiatives = [
   {
     name: "Vortexa",
-    college: "كلية الأمير الحسين بن عبدالله الثاني لتكنولوجيا المعلومات",
+    college: "جميع كليات الجامعة",
     image: "assets/initiative-vortexa.jpg",
     color: "rgba(84,222,196,.24)",
     links: {
@@ -39,28 +39,17 @@ const initiatives = [
   },
   {
     name: "Neuro Medical - نيورو ميديكال",
-    college: "كلية العلوم الطبية التطبيقية",
+    college: "كلية العلوم الطبية التطبيقية والتمريض",
     image: "assets/initiative-neuro.jpg",
     color: "rgba(179,135,255,.24)",
     links: {
       facebook: "https://www.facebook.com/share/1BsKca6sef/",
       instagram: "https://www.instagram.com/neuro_medical",
-      whatsapp: "https://chat.whatsapp.com/HTiRVnhkHDiEdGBkyRcizX",
+      whatsapp: "https://whatsapp.com/channel/0029VbE9Jr1I7BeICvbXjk2o",
       website: "https://neurohu.netlify.app/"
     }
   },
-  {
-    name: "فريق نشمي",
-    college: "كلية العلوم الطبية وكلية الصيدلة وكلية التمريض",
-    image: "assets/initiative-nashmi.jpg",
-    color: "rgba(68,157,255,.24)",
-    links: {
-      facebook: "https://www.facebook.com/share/1VoDq8Yyhg/",
-      instagram: "https://www.instagram.com/nashmi_team_hu",
-      whatsapp: "https://whatsapp.com/channel/0029Vb8r5QUKAwEuOaJiKl1J",
-      website: "http://nashmimedia.xyz"
-    }
-  },
+
   {
     name: "The Jordanian Medical Unity",
     college: "كلية التمريض والعلوم الطبية المساندة",
@@ -71,6 +60,18 @@ const initiatives = [
       instagram: "https://www.instagram.com/jordanian.medical.unity",
       whatsapp: "https://chat.whatsapp.com/IbfY8G4x0al0YLbce79dIk",
       website: "https://www.linkin1.com/TheJMU"
+    }
+  },
+    {
+    name: "فريق نشمي",
+    college: "كلية العلوم الطبية وكلية الصيدلة وكلية التمريض",
+    image: "assets/initiative-nashmi.jpg",
+    color: "rgba(68,157,255,.24)",
+    links: {
+      facebook: "https://www.facebook.com/share/1VoDq8Yyhg/",
+      instagram: "https://www.instagram.com/nashmi_team_hu",
+      whatsapp: "https://whatsapp.com/channel/0029Vb8r5QUKAwEuOaJiKl1J",
+      website: "http://nashmimedia.xyz"
     }
   },
   {
@@ -142,6 +143,54 @@ const initiatives = [
       facebook: "https://www.facebook.com/share/19PFymhPGW/",
       instagram: "https://www.instagram.com/medclub.hu",
       whatsapp: "https://chat.whatsapp.com/KSpynkdYiVoHCKQgyRyjSC",
+      website: ""
+    }
+  },
+  {
+    name: "نشامى العلوم",
+    college: "كلية العلوم",
+    image: "assets/initiative-nashama-science.jpg",
+    color: "rgba(255,123,107,.25)",
+    links: {
+      facebook: "https://www.facebook.com/share/1DdE4c6eUR/",
+      instagram: "https://www.instagram.com/alnashama_science",
+      whatsapp: "https://chat.whatsapp.com/Fm20A7lVawX82keSoeNnzd",
+      website: ""
+    }
+  },
+  {
+    name: "حصاد التربوي",
+    college: "كلية العلوم التربوية",
+    image: "assets/initiative-hasaad.jpg",
+    color: "rgba(83,229,151,.23)",
+    links: {
+      facebook: "https://www.facebook.com/share/17hGUN4jgP/",
+      instagram: "https://www.instagram.com/hasaad._",
+      whatsapp: "https://chat.whatsapp.com/HPijynTSEvjD3lO0EBJ18k",
+      website: ""
+    }
+  },
+  {
+    name: "سُفراء الهاشمية | Afaq",
+    college: "كلية الآداب",
+    image: "assets/initiative-afaq.jpg",
+    color: "rgba(68,157,255,.24)",
+    links: {
+      facebook: "https://www.facebook.com/share/g/1FzSxuUMWs/",
+      instagram: "",
+      whatsapp: "",
+      website: ""
+    }
+  },
+  {
+    name: "نشامى التمريض",
+    college: "كلية التمريض",
+    image: "assets/initiative-nashama-nursing.jpg",
+    color: "rgba(255,191,105,.25)",
+    links: {
+      facebook: "https://www.facebook.com/share/1DDZdoJWEQ/",
+      instagram: "https://www.instagram.com/alnashama_nursing",
+      whatsapp: "https://chat.whatsapp.com/GM03DK5tSOF8cUVkQze7au",
       website: ""
     }
   }
